@@ -1,0 +1,39 @@
+body {
+    width: 90vw;
+    height: 90vh;
+    margin: 15px;
+    background-color: rgba(235, 97, 47, 0.304);
+}
+
+.geral {
+    font-family:Arial, Helvetica, sans-serif;
+    font-weight: bolder;
+    color: black;
+    text-align: center;
+
+}
+
+.tema {
+    font-size: medium;
+    position: relative;
+    height: 1%;
+    margin: 30px auto;
+    text-align: center;
+}
+
+.html {
+    position: fixed;
+    height: 75px;
+    width: 130px;
+    border-radius: 50%;
+    bottom: 36px;
+    right: 36px;
+
+}
+
+.img {
+    position:fixed;
+    width: 80%;
+    margin: 50px;
+
+}

@@ -1,0 +1,41 @@
+body {
+    width: 90vw;
+    height: 90vh;
+    margin: 15px;
+    background-color: rgba(235, 97, 47, 0.304);
+}
+
+.geral {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: black;
+
+}
+
+.tema {
+    font-size: medium;
+    position:relative;
+    height: 60%;
+    width: 32%;
+    margin: 30px auto;
+}
+
+.subtema {
+    position:relative;
+    margin: 30px auto;
+
+}
+
+.texto {
+    font-style: italic;
+    font-size: larger;
+    position:relative;
+
+}
+
+.rodape {
+    text-align: center;
+    background-color:beige;
+    color:rgba(56, 0, 58, 0.63);
+    margin: 15px;
+
+}
